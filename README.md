@@ -2,6 +2,8 @@
 
 A modern, interactive web application that allows users to submit their notional machines and receive comprehensive AI-powered evaluations for computer science education.
 
+A link to hosted service: https://nmeval.com
+
 ## 🎯 Overview
 
 A notional machine is a simplified, conceptual model of how a computer or programming language works, used as a pedagogical tool in computer science education. This application provides an automated evaluation system using OpenAI's GPT-4 to assess the quality, clarity, and pedagogical value of notional machine descriptions.
