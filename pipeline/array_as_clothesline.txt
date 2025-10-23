@@ -1,0 +1,29 @@
+# Name of NM
+Array as Clothesline
+
+# Form (2 Types of Base)
+representation-based
+
+# Programming Language
+imperative / any
+
+# Conceptual Advantage
+Makes arrays tangible, embodied activity.
+
+# Draws Attention To
+Arrays are compound data structures.
+
+# Use When
+When the concept of lists is new
+
+# Mapping (PL|NM)
+1. array | clothesline
+2. array element | clothespin
+3. element index | label on the pin
+4. element value | paper sheet in the pin
+
+# Cost
+<not captured>
+
+# Details
+<not shown>

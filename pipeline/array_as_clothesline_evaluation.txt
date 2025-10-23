@@ -1,0 +1,62 @@
+
+--- EVALUATION FORM TEMPLATE START ---
+# Name of the Evaluated Notional Machine: Array as Clothesline
+
+# Full mark is 100:
+------------------------------------------------------------------------------------------------------------------------------
+# Part A - 10 marks - teaching goal achieved
+## i. (10 basic marks) if teaching goal is ACHIEVED, have 10 marks as BASIC marks. (ALL 57 NMs achieve this.)
+### Mark of A(i): 10
+### Reasons for mark above: The notional machine effectively achieves its teaching goal by making the concept of arrays more tangible and accessible, especially for beginners, by using a relatable analogy.
+
+## ii. (total zero) if teaching goal is NOT achieved, directly receive TOTAL ZERO marks.
+### Mark of A(ii): N/A
+### Reasons for mark above: As the teaching goal is achieved, this marking criterion is not applicable.
+
+------------------------------------------------------------------------------------------------------------------------------
+# Part B - 40 marks - feeling easy to understand the analogy or representation been used from PL term(s) to NM term(s)
+## i. (20 marks) the NM term(s) must be popular for most learners in reality, the learners here are assumed to be university year 1 students around 20 years old.
+### Mark of B(i): 18
+### Reasons for mark above: The clothesline analogy is relatively common and should be familiar to most learners. However, it is slightly dated, as not all students may have direct experience with a clothesline, potentially limiting familiarity.
+
+## ii. (20 marks) easy to build linkages between PL term(s) and NM term(s)
+### Mark of B(ii): 19
+### Reasons for mark above: There is a clear mapping of concepts: arrays to clotheslines, array elements to clothespins, index labels to labels on pins, and values to paper sheets. This structure facilitates easy conceptual linkage.
+
+------------------------------------------------------------------------------------------------------------------------------
+# Part C - 30 marks - not easy to lead to misunderstanding of concepts, including:
+## i. (15 marks) not easy to misunderstand PL term(s) in a wrong way, e.g., misunderstand that "apple is an animal, not a fruit".
+### Mark of C(i): 14
+### Reason for mark above: The analogy is straightforward but could lead to a minor misunderstanding if students perceive the linear nature of a clothesline as a constraint on array operations, imagining arrays as always sequentially accessed.
+
+## ii. (15 marks) not easy to lead to limitation scope misunderstanding, e.g., misunderstand that "the standards of being a square are standards of being all rectangles".
+### Mark of C(ii): 14
+### Reason for mark above: While the analogy works well, it might implicitly suggest that arrays are static structures like clotheslines, potentially obscuring the dynamic nature of arrays in programming (e.g., resizing).
+
+## iii. (Part C zero) if there exist serious misunderstanding very likely to happen, receive Part C zero.
+### Mark of C(iii): N/A
+### Reason for mark above: There is no serious likelihood of misunderstanding that would warrant a zero in this part.
+
+------------------------------------------------------------------------------------------------------------------------------
+# Part D - 20 mark - Teaching and Learning Cost is proper
+## i. (10 marks) time and other costs for teaching staff to prepare is proper
+### Mark of D(i): 9
+### Reason for mark above: Preparation for using this notional machine is straightforward, possibly requiring minimal physical materials or diagrams, which are easily procurable or creatable.
+
+## ii. (10 marks) time and other costs for students to learn is proper
+### Mark of D(ii): 9
+### Reason for mark above: Students can quickly grasp the analogy, requiring only a short introduction. Some might need additional examples if they are unfamiliar with a clothesline.
+
+------------------------------------------------------------------------------------------------------------------------------
+# Total Mark: 93
+## Overall Comments:
+### About Evaluation on What Have Been Done:
+The "Array as Clothesline" notional machine is a well-conceived analogy that makes the abstract concept of arrays more relatable to novice programmers. Its mappings are straightforward, fostering a clear understanding of arrays as compound data structures.
+
+### About Possible Future Developments:
+Consider updating the materials to include alternative analogies for diverse student groups less familiar with clotheslines, ensuring the analogy's relevance and accessibility. More dynamic analogies could also address potential misconceptions about the immutable nature of arrays.
+
+### Others (optional):
+Incorporating physical activities, such as setting up a real or virtual clothesline, could enhance the experiential learning aspect, further solidifying the understanding. Additionally, connecting this analogy to more advanced array operations can bridge foundational concepts to more complex programming topics. 
+
+--- EVALUATION FORM TEMPLATE END ---
